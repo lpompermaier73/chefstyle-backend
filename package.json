@@ -1,0 +1,14 @@
+{
+  "name": "chefstyle-backend",
+  "version": "1.0.0",
+  "description": "Backend serverless para o Chat IA do ChefStyle",
+  "main": "api/chat.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "18.x"
+  }
+}
